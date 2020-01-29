@@ -2,10 +2,17 @@
 
 Instructions:
 
-1- Run Terminal
-2- 'cd' to project folder
-3- 'npm install' 
-4- 'react-native run-ios'
+1-  Run Terminal
+2-  'cd' to project folder
+3-  'npm install' 
+4-  Run Xcode
+5-  Open the project folder
+6-  Click on project name (projeIbrahim) 
+7-  Go to Signing & Capabilities
+8-  Change 'Team' to your account
+9-  Change 'Build Identifier's name i.e. org.reactjs.native.example.projectNameHere
+10- 'react-native run-ios'
+
 
 Requirements:
 
